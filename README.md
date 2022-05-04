@@ -22,4 +22,14 @@ The purpose of low fidelity prototyping is to see if the logic makes sense as to
 
 Gwydion
 
-![Gwdyion](gwyd%20ian%20ww%202-1.png)
+![Gwydion](gwyd%20ian%20ww%202-1.png)
+
+![Gwydion1](IMG_2218%202.png)
+
+Ian
+
+![Ian](gwyd%20ian%20ww%202-2.png)
+
+![Ian1](IMG_2215.png)
+
+![Ian2](IMG_2217.png)
